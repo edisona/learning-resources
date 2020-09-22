@@ -43,6 +43,10 @@
 * [Bayesian Method for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## [Resources](#-resources)
+### [Programming](#-programming-resources)
+#### [Python](#-python-programming-resources)
+* https://www.python-course.eu/
+* https://realpython.com/
 
 ## [Tools](#-tools)
 * [Rapidminer](https://rapidminer.com/)
